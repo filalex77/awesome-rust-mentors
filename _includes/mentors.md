@@ -222,6 +222,12 @@
 * **Topics**: Learning Rust from nothing or experienced newcomers
 * **Additional Resources**: I maintain [Static Assertions](https://github.com/nvzqz/static-assertions-rs), so I'd be happy to teach people how it works
 
+### Oleksii Filonenko ([@filalex77](https://github.com/filalex77))
+* **Pronouns**: he/him
+* **Contact**: Github ([@filalex77](https://github.com/filalex77)), Discord ([BrightOne#2574](https://discordapp.com/invite/rust-lang))
+* **Spoken Languages**: _English_, Ukrainian, Russian
+* **Topics**: Beginners, CLI, developer tools, clean code, refactoring, serialization, exercism.io
+
 ### Oli ([@oli-obk](https://github.com/oli-obk))
 * **Pronouns**: he/him
 * **Contact**: Zulip ([@oli](https://rust-lang.zulipchat.com/)), Github ([@oli-obk](https://github.com/oli-obk)), Discord ([oli#1337](https://discordapp.com/invite/rust-lang))
